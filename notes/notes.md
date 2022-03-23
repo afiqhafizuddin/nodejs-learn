@@ -41,3 +41,7 @@ console.log('Reading file...');
 1. This is where time-consuming tasks should be run
 
 ---
+
+## **Routing**
+
+Implementation of different actions for different URLs.
